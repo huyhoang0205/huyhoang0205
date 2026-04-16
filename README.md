@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=huyhoang0205&show_icons=true&theme=radical" alt="stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoang0205&layout=compact&theme=radical" alt="top langs" height="180" />
-</p>
-
----
-
 ### 📊 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyhoang0205&theme=react-dark&hide_border=true&area=true" />
@@ -89,11 +81,3 @@
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/huyhoang0205/huyhoang0205/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
